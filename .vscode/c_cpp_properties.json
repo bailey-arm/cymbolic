@@ -3,7 +3,8 @@
     {
       "name": "macos-clang-x64",
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/include"
       ],
       "compilerPath": "/usr/bin/clang",
       "cStandard": "${default}",
